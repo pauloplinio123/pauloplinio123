@@ -1,0 +1,9 @@
+- 👋 olá, eu sou o  @pauloplinio123...
+- 👀 eu estou interesado em aprender a programar...
+- 🌱 eu aprendi recentemente a programar ...
+- 📫 pode me contatar no email @paulo.cesr.souza@escola.pr.gov.br
+
+<!---
+pauloplinio123/pauloplinio123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
